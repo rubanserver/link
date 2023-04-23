@@ -1,7 +1,7 @@
 # JS Link Url Shortner Bot Source
 Convert Any Shortner Link To Your With Post
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ANY+SHORTNER+BULK+POST+CONVERTER!;CREATED+BY+TECHNICAL+CYNITE!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
+![Typing SVG](https://res.cloudinary.com/jm-whatsapp-status-777/image/upload/v1682236549/Picsart_23-04-20_12-34-33-213_wxsi41.jpg)
 </p>
 
 </p>
@@ -9,13 +9,11 @@ Convert Any Shortner Link To Your With Post
   <b>Shortner-Converter-Bot-V2</b>
 </h1>
 
-## TG Bot [@CyniteBackup](t.me/CyniteBackup)
+## TG Bot [@JayRaj8128](t.me/JayRaj8833)
 
 ## Credits 
 
-* [![DK](https://img.shields.io/static/v1?label=DKBOTZ&message=Telegram&color=critical)](https://t.me/DKBOTZ)
-* [![Contact](https://img.shields.io/static/v1?label=Contact&message=On+Telegram&color=critical)](https://t.me/Cynitesupport)
-
+* [![DK](https://res.cloudinary.com/jm-whatsapp-status-777/image/upload/v1682236549/Picsart_23-04-20_12-34-33-213_wxsi41.jpg)](https://t.me/JayRaj8833)
 ## Deploy 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyniteofficial/Shortner-Converter-Bot-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JayRaj8833/JS-link-bot)
