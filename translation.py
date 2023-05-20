@@ -3,7 +3,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 START_MESSAGE = '''**Hello, {}
-I Am "Add Your Website Name" , Bulk Link Converter. I Can Convert Links Directly From Your ShortnerFly Account,
+I Am "Add Your Website Name" , Bulk Link Converter. I Can Convert Links Directly From Your JS Link Account,
     
 1. Go To 👉 https://example.com/member/tools/api  
 2. Than Copy API Key
