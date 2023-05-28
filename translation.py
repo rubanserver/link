@@ -3,9 +3,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 START_MESSAGE = '''**Hello, {}
-I Am "Add Your Website Name" , Bulk Link Converter. I Can Convert Links Directly From Your JS Link Account,
+I Am "Add Your Website Name" , Bulk Link Converter. I Can Convert Links Directly From Your grolink.in Account,
     
-1. Go To 👉 https://example.com/member/tools/api  
+1. Go To 👉 https://grolink.in/member/tools/api  
 2. Than Copy API Key
 3. Than Type /api than give a single space and than paste your API Key (see example to understand more...)**
 
@@ -23,9 +23,9 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 '''
 
 HELP_MESSAGE = '''**Hello, {}
-I Am "Add Your Website Name", Bulk Link Converter Bot. I Can Convert Links Directly From Your "Add Your Website Name" Account,**
+I Am "Add Your Website Name", Bulk Link Converter Bot. I Can Convert Links Directly From Your grolink.in Account,**
     
-1. Go To 👉 https://example.com/member/tools/api  
+1. Go To 👉 https://grolink.in/member/tools/api  
 2. Than **Copy API** Key
 3. Than Type **/api** than give a **single space** and than **paste** your **API** Key (**see example** to understand more...)
 
@@ -38,14 +38,14 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of """Add Your Website Name"** than **contact** at 👉 your telegram username (all **shortners support** available.)**
+If You Want Any **Other Shortner** Link Converter Bot Instead Of grolink.in** than **contact** at 👉 @RTG_Network (all **shortners support** available.)**
 '''
 
-ABOUT_TEXT = '''**Hey! My name is 'your url shortener bot name'. 'I am add your url shortener bot name.**'
+ABOUT_TEXT = '''**Hey! My name is 'your url shortener bot name'. 'I am add your url shortener bot grolink.in .**'
 
 **⚡Features⚡**
 
-• I can **Convert any** links or posts to your **"Add Your Website Name"** link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)
+• I can **Convert any** links or posts to your **grolink.in** link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)
 
 • I Can **auto** add custom **footer text** to your every post. Hit 👉 /footer To know more...
 
@@ -57,7 +57,7 @@ ABOUT_TEXT = '''**Hey! My name is 'your url shortener bot name'. 'I am add your 
 
 • **No** need to share **password or email** to convert links.**
 
- Anyone who want to use any **other shortner** instead of "Add Your Website Name" than **contact** at 👉 @username (all **shortners support** available.)
+ Anyone who want to use any **other shortner** instead of grolink.in than **contact** at 👉 @RTG_Network (all **shortners support** available.)
 
 **Click On Custom Alias To Create Custom Link**
 '''
@@ -66,7 +66,7 @@ CUSTOM_ALIAS_MESSAGE = """For Custom Alias, `[link] | [custom_alias]`, Send in t
 
 This feature works only in private mode only
 
-Ex: https://t.me/jayraj8833 | "Add Your Website Name""""
+Ex: https://t.me/jayraj8833 | jayraj.me
 
 
 ADMINS_MESSAGE = """
@@ -97,7 +97,7 @@ HELP_REPLY_MARKUP = InlineKeyboardMarkup([
 
 START_MESSAGE_REPLY_MARKUP  = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton('Get Api', url=f'https://ShortnerFly.com/member/tools/api')
+        InlineKeyboardButton('Get Api', url=f'https://grolink.in/member/tools/api')
     ]
 ])
 
@@ -111,7 +111,7 @@ BACK_REPLY_MARKUP = InlineKeyboardMarkup([
 ])
 
 USER_ABOUT_MESSAGE = """
-- Website: [{base_site}](https://example.com/ref/jayraj)
+- Website: [{base_site}](https://grolink.in/ref/jayraj)
 
 - Site Link {base_site} Current Linked API: {shortener_api}
 
@@ -132,7 +132,7 @@ SHORTENER_API_MESSAGE = """To add or update your Shortner Website API,
             
 Ex: `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 
-Get API From [{base_site}](https://example.com/ref/jayraj)
+Get API From [{base_site}](https://grolink.in/ref/jayraj)
 
 Current {base_site} API: `{shortener_api}`"""
 
@@ -150,18 +150,18 @@ This Text will be added to the **bottom** of every message **caption** or text
 For adding **line break** use \n
 To Remove Footer Text: `/footer remove`"""
 
-USERNAME_TEXT = """**Hello {username}, I am "Add Your Website Name", Bulk Link Converter Bot From Linked url shortener bot name Account,**
+USERNAME_TEXT = """**Hello {username}, I am grolink.in, Bulk Link Converter Bot From Linked url shortener bot name Account,**
 
 **🌟 Type** /channel (channel link or username)
 
 **example:**
-/channel @JayRaj8833
+/channel @Grolink_Official_Channel
 Or
-/channel https://t.me/JayRaj8833
+/channel https://t.me/Grolink_Official_Channel
 
 **🤘 Hit** 👉 /features To Know More Features Of This Bot.
 
-**- Message @JayRaj8833 For More Help -**"""
+**- Message @RTG_Network For More Help -**"""
 
 BANNER_IMAGE = """
 Usage: `/banner_image image_url` or reply to any Image with this command
@@ -170,7 +170,7 @@ This image will be automatically replaced with other images in the post
 
 To remove custom image, `/banner_image remove`
 
-Eg: `/banner_image https://telegra.ph/file/5e96340a91470256b387a.jpg`"""
+Eg: `/banner_image https://i.ibb.co/XVydpmt/IMG-20230528-215336-407.jpg`"""
 
 
 BANNED_USER_TXT = """
