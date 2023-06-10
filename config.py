@@ -9,7 +9,7 @@ load_dotenv()
 # Mandatory variables for the bot to start
 API_ID = int(os.getenv("API_ID", "25632035"))
 API_HASH = os.environ.get("API_HASH", "896d8f9929d3e00d2dae14646329fe3b")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6033859982:AAG4pP-lv_r_sHzKp5oaXcffvkhHbmjNdCk")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6033859982:AAFRGI-GW9m9InFh-YXBaXkD881ctQBxThg")
 ADMINS = [int(i.strip()) for i in os.environ.get("ADMINS").split("6094386527")] if os.environ.get("ADMINS") else []
 ADMIN = ADMINS
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "rubanlink")
