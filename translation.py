@@ -65,8 +65,6 @@ Ex: https://t.me/ridzy96 | ridzy96.me """
 
 
 
-])
-
 HELP_REPLY_MARKUP = InlineKeyboardMarkup([
 
     [
@@ -132,7 +130,7 @@ This Text will be added to the **bottom** of every message **caption** or text
 For adding **line break** use \n
 To Remove Footer Text: `/footer remove`"""
 
-USERNAME_TEXT = """**Hello {username}, I am grolink.in, Bulk Link Converter Bot From Linked url shortener bot name Account,**
+USERNAME_TEXT = """**Hello {username}, I am tamizhmasters.com, Bulk Link Converter Bot From Linked url shortener bot name Account,**
 
 **🌟 Type** /channel (channel link or username)
 
