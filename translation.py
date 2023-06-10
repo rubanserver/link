@@ -72,8 +72,7 @@ Ex: https://t.me/ridzy96 | ridzy96.me
 ADMINS_MESSAGE = """
 List of Admins who has access to this Bot
 
-{admin_list}
-"""
+{admin_list}""
 
 ABOUT_REPLY_MARKUP = InlineKeyboardMarkup([
 
