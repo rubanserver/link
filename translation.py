@@ -63,6 +63,22 @@ This feature works only in private mode only
 
 Ex: https://t.me/ridzy96 | ridzy96.me """
 
+ADMINS_MESSAGE = """
+List of Admins who has access to this Bot
+
+{admin_list}
+"""
+
+
+ABOUT_REPLY_MARKUP = InlineKeyboardMarkup([
+
+    [
+        InlineKeyboardButton('Custom Alias', callback_data=f'alias_conf')
+        
+    ],
+
+
+])
 
 
 HELP_REPLY_MARKUP = InlineKeyboardMarkup([
