@@ -3,9 +3,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 START_MESSAGE = '''**Hello, {}
-I Am "Add Your Website Name" , Bulk Link Converter. I Can Convert Links Directly From Your grolink.in Account,
+I Am "Add Your Website Name" , Bulk Link Converter. I Can Convert Links Directly From Your tamizhmasters.com Account,
     
-1. Go To 👉 https://grolink.in/member/tools/api  
+1. Go To 👉 http://tamizhmasters.com/member/tools/api  
 2. Than Copy API Key
 3. Than Type /api than give a single space and than paste your API Key (see example to understand more...)**
 
@@ -18,14 +18,14 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
- if you want to make this way our url shortener website bot so , contact him :-> @JayRaj8833 .....
+ if you want to make this way our url shortener website bot so , contact him :-> @ridzy96 .....
  
 '''
 
 HELP_MESSAGE = '''**Hello, {}
-I Am "Add Your Website Name", Bulk Link Converter Bot. I Can Convert Links Directly From Your grolink.in Account,**
+I Am "Add Your Website Name", Bulk Link Converter Bot. I Can Convert Links Directly From Your tamizhmasters.com Account,**
     
-1. Go To 👉 https://grolink.in/member/tools/api  
+1. Go To 👉 http://tamizhmasters.com/member/tools/api  
 2. Than **Copy API** Key
 3. Than Type **/api** than give a **single space** and than **paste** your **API** Key (**see example** to understand more...)
 
@@ -57,7 +57,7 @@ ABOUT_TEXT = '''**Hey! My name is 'your url shortener bot name'. 'I am add your 
 
 • **No** need to share **password or email** to convert links.**
 
- Anyone who want to use any **other shortner** instead of grolink.in than **contact** at 👉 @RTG_Network (all **shortners support** available.)
+ Anyone who want to use any **other shortner** instead of grolink.in than **contact** at 👉  (all **shortners support** available.)
 
 **Click On Custom Alias To Create Custom Link**
 '''
@@ -66,7 +66,7 @@ CUSTOM_ALIAS_MESSAGE = """For Custom Alias, `[link] | [custom_alias]`, Send in t
 
 This feature works only in private mode only
 
-Ex: https://t.me/jayraj8833 | jayraj.me
+Ex: https://t.me/ridzy96 | ridzy96.me
 
 
 ADMINS_MESSAGE = """
@@ -111,7 +111,7 @@ BACK_REPLY_MARKUP = InlineKeyboardMarkup([
 ])
 
 USER_ABOUT_MESSAGE = """
-- Website: [{base_site}](https://grolink.in/ref/jayraj)
+- Website: [{base_site}](http://tamizhmasters.com/ref/ruban96)
 
 - Site Link {base_site} Current Linked API: {shortener_api}
 
@@ -132,7 +132,7 @@ SHORTENER_API_MESSAGE = """To add or update your Shortner Website API,
             
 Ex: `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 
-Get API From [{base_site}](https://grolink.in/ref/jayraj)
+Get API From [{base_site}](http://tamizhmasters.com/ref/ruban96)
 
 Current {base_site} API: `{shortener_api}`"""
 
@@ -155,7 +155,7 @@ USERNAME_TEXT = """**Hello {username}, I am grolink.in, Bulk Link Converter Bot 
 **🌟 Type** /channel (channel link or username)
 
 **example:**
-/channel @Grolink_Official_Channel
+/channel @tamil4katmos
 Or
 /channel https://t.me/Grolink_Official_Channel
 
