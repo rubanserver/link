@@ -11,14 +11,13 @@ I Am "Add Your Website Name" , Bulk Link Converter. I Can Convert Links Directly
 
 **/api(space)API Key 
 (See Example.👇)
-Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
+Example:** `/api abc59da72a4f3119c2318cb1e88235b0ecae3dba `
 
 **➕ Hit** 👉 /Features To Know More Features Of This Bot.
 **💁‍♀️ Hit** 👉 /help To Get Help.
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
- if you want to make this way our url shortener website bot so , contact him :-> @ridzy96 .....
  
 '''
 
@@ -31,17 +30,15 @@ I Am "Add Your Website Name", Bulk Link Converter Bot. I Can Convert Links Direc
 
 **/api(space)API Key 
 (See Example.👇)
-Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
+Example:** `/api abc59da72a4f3119c2318cb1e88235b0ecae3dba `
 
 **➕ Hit** 👉 /Features To Know More Features Of This Bot.
 **💁‍♀️ Hit** 👉 /help To Get Help.
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
-
-If You Want Any **Other Shortner** Link Converter Bot Instead Of grolink.in** than **contact** at 👉 @RTG_Network (all **shortners support** available.)**
 '''
 
-ABOUT_TEXT = '''**Hey! My name is 'your url shortener bot name'. 'I am add your url shortener bot grolink.in .**'
+ABOUT_TEXT = '''**Hey! My name is 'your url shortener bot name'. 'I am add your url shortener bot tamizhmasters.com .**'
 
 **⚡Features⚡**
 
@@ -56,8 +53,6 @@ ABOUT_TEXT = '''**Hey! My name is 'your url shortener bot name'. 'I am add your 
 • I Can **Automatically Replace** Your ***Banner** Image To images in the post. Hit  👉/Banner To Know More... 
 
 • **No** need to share **password or email** to convert links.**
-
- Anyone who want to use any **other shortner** instead of grolink.in than **contact** at 👉  (all **shortners support** available.)
 
 **Click On Custom Alias To Create Custom Link**
 '''
@@ -92,7 +87,7 @@ HELP_REPLY_MARKUP = InlineKeyboardMarkup([
 
 START_MESSAGE_REPLY_MARKUP  = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton('Get Api', url=f'https://grolink.in/member/tools/api')
+        InlineKeyboardButton('Get Api', url=f'https://tamizhmasters.com/member/tools/api')
     ]
 ])
 
@@ -106,7 +101,7 @@ BACK_REPLY_MARKUP = InlineKeyboardMarkup([
 ])
 
 USER_ABOUT_MESSAGE = """
-- Website: [{base_site}](http://tamizhmasters.com/ref/ruban96)
+- Website: [{base_site}](http://tamizhmasters.com/ref/ruban9820)
 
 - Site Link {base_site} Current Linked API: {shortener_api}
 
@@ -127,7 +122,7 @@ SHORTENER_API_MESSAGE = """To add or update your Shortner Website API,
             
 Ex: `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 
-Get API From [{base_site}](http://tamizhmasters.com/ref/ruban96)
+Get API From [{base_site}](http://tamizhmasters.com/ref/ruban9820)
 
 Current {base_site} API: `{shortener_api}`"""
 
@@ -150,13 +145,11 @@ USERNAME_TEXT = """**Hello {username}, I am grolink.in, Bulk Link Converter Bot 
 **🌟 Type** /channel (channel link or username)
 
 **example:**
-/channel @tamil4katmos
-Or
-/channel https://t.me/Grolink_Official_Channel
+/channel @tamizhmasters_official
 
 **🤘 Hit** 👉 /features To Know More Features Of This Bot.
 
-**- Message @RTG_Network For More Help -**"""
+**- Message @Tamizhmasters_support For More Help -**"""
 
 BANNER_IMAGE = """
 Usage: `/banner_image image_url` or reply to any Image with this command
@@ -165,7 +158,7 @@ This image will be automatically replaced with other images in the post
 
 To remove custom image, `/banner_image remove`
 
-Eg: `/banner_image https://i.ibb.co/XVydpmt/IMG-20230528-215336-407.jpg`"""
+Eg: `/banner_image https://graph.org/file/2d88147b5a2bedc4fd35b.jpg`"""
 
 
 BANNED_USER_TXT = """
