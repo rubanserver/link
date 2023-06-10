@@ -66,13 +66,9 @@ CUSTOM_ALIAS_MESSAGE = """For Custom Alias, `[link] | [custom_alias]`, Send in t
 
 This feature works only in private mode only
 
-Ex: https://t.me/ridzy96 | ridzy96.me
+Ex: https://t.me/ridzy96 | ridzy96.me """
 
 
-ADMINS_MESSAGE = """
-List of Admins who has access to this Bot
-
-{admin_list}""
 
 ABOUT_REPLY_MARKUP = InlineKeyboardMarkup([
 
