@@ -42,7 +42,7 @@ ABOUT_TEXT = '''**Hey! My name is 'your url shortener bot name'. 'I am add your 
 
 **⚡Features⚡**
 
-• I can **Convert any** links or posts to your **grolink.in** link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)
+• I can **Convert any** links or posts to your **tamizhmasters.com** link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)
 
 • I Can **auto** add custom **footer text** to your every post. Hit 👉 /footer To know more...
 
@@ -63,14 +63,6 @@ This feature works only in private mode only
 
 Ex: https://t.me/ridzy96 | ridzy96.me """
 
-
-
-ABOUT_REPLY_MARKUP = InlineKeyboardMarkup([
-
-    [
-        InlineKeyboardButton('Custom Alias', callback_data=f'alias_conf')
-        
-    ],
 
 
 ])
